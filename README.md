@@ -1,8 +1,8 @@
-# Hi — I'm James
+# James Browne
 
 I build at the intersection of **enterprise and frontier AI** — prototypes, research, and production-shaped tools that let me learn by shipping, not just by reading.
 
-Currently exploring AI-aligned roles, particularly in EMEA financial services. The repositories below are what I've been working on in my own time.
+Currently exploring AI-aligned roles, particularly in EMEA financial services. The work below is what I've been doing in my own time.
 
 ---
 
@@ -32,6 +32,10 @@ Currently exploring AI-aligned roles, particularly in EMEA financial services. T
 
 **[bomberman-clone](https://github.com/FromArkZoo/bomberman-clone)** — A Super Bomberman clone built from scratch in vanilla JavaScript. Clean entity architecture, raycast bomb propagation, reactive enemy AI.
 
+## Published work
+
+**[What was that BANG?!?](https://jamesbrownebooks.com/)** (Troubador, 2026) — An illustrated science book for ages 8–12 exploring how sound travels from physics to conscious perception, built around Socratic dialogue between a child and his father. ISBN 978-1-80634-016-3.
+
 ---
 
 ## How I work
@@ -40,3 +44,9 @@ Currently exploring AI-aligned roles, particularly in EMEA financial services. T
 - Evaluation methodology matters as much as the artifact itself
 - Privacy and data handling should be design decisions, not afterthoughts
 - Unknown systems are opportunities to understand deeply — not problems to route around
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/james-browne-aa230623)
