@@ -1,0 +1,42 @@
+# Hi — I'm James
+
+I build at the intersection of **enterprise and frontier AI** — prototypes, research, and production-shaped tools that let me learn by shipping, not just by reading.
+
+Currently exploring AI-aligned roles, particularly in EMEA financial services. The repositories below are what I've been working on in my own time.
+
+---
+
+## Research
+
+**[Genesis Engine](https://github.com/FromArkZoo/aigame)** — Evolving original abstract strategy games playable by AI agents, using LLM-as-judge evaluation across multiple Claude agent teams. Current direction: cellular automata as the rule substrate for evolvable games. Deliberate iteration across runs 7–12, with failure modes from each generation fed back into the constraints of the next.
+
+## Applied AI × finance
+
+**[t212-advisor](https://github.com/FromArkZoo/t212-advisor)** — A Trading 212 portfolio advisor with Claude-powered analysis, rebalancing suggestions, dividend optimisation, and what-if scenarios. Python + Streamlit + Anthropic SDK.
+
+## Data integration in regulated domains
+
+**[dna-analyzer](https://github.com/FromArkZoo/dna-analyzer)** — A Flask app that cross-references AncestryDNA files against ClinVar, GWAS Catalog, and PharmGKB clinical annotations. Privacy-by-design: raw files are parsed in-memory and never written to disk.
+
+## Hardware × ML
+
+**[q10-drone-controller](https://github.com/FromArkZoo/q10-drone-controller)** — Reverse-engineered WiFi protocol, OpenCV video pipeline, and PyTorch behavioural-cloning autopilot for the AVIALOGIC Q10 mini drone. Packet capture → protocol decode → handshake replay → autonomous flight. Packet captures and replay tooling committed as evidence of the reverse-engineering work.
+
+**[tv-streamer](https://github.com/FromArkZoo/tv-streamer)** — An LG webOS homebrew IPTV aggregator with multi-dimensional channel classification (category / language / region), HLS playback tuned for TV hardware, and a CDP → Luna bridge for scripted sideload. Packaged as a `.ipk` and running on-device.
+
+## Systems + engineering fundamentals
+
+**[VoiceChangerPro-iOS](https://github.com/FromArkZoo/VoiceChangerPro-iOS)** — A low-latency iOS voice changer built on AVAudioEngine with FFT processing via the Accelerate framework.
+
+**[BeanNote](https://github.com/FromArkZoo/BeanNote)** — A canvas-based slide / presentation builder in React + TypeScript with a dynamic background renderer.
+
+**[bomberman-clone](https://github.com/FromArkZoo/bomberman-clone)** — A Super Bomberman clone built from scratch in vanilla JavaScript. Clean entity architecture, raycast bomb propagation, reactive enemy AI.
+
+---
+
+## How I work
+
+- I learn by shipping real things, not by reading about them
+- Evaluation methodology matters as much as the artifact itself
+- Privacy and data handling should be design decisions, not afterthoughts
+- Unknown systems are opportunities to understand deeply — not problems to route around
