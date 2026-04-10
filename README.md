@@ -1,8 +1,8 @@
 # James Browne
 
-I build at the intersection of **enterprise and frontier AI** — prototypes, research, and production-shaped tools that let me learn by shipping, not just by reading.
+15 years leading enterprise relationships at **Bloomberg**.
 
-Currently exploring AI-aligned roles, particularly in EMEA financial services. The work below is what I've been doing in my own time.
+I'm genuinely interested in how frontier AI can democratize knowledge and increase individual agency in the world. The work below is what I've been building in my spare time to explore that question — prototypes, research, and production-shaped tools across frontier AI research, applied AI in finance, regulated-domain data integration, and hardware-facing ML.
 
 ---
 
