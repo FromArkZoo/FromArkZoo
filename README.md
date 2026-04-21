@@ -2,7 +2,7 @@
 
 15 years leading enterprise relationships at **Bloomberg**.
 
-I'm genuinely interested in how frontier AI can democratize knowledge and increase individual agency in the world. The work below is what I've been building in my spare time to explore that question — prototypes, research, and production-shaped tools across frontier AI research, applied AI in finance, regulated-domain data integration, and hardware-facing ML.
+I'm genuinely interested in how frontier AI can democratise knowledge and increase individual agency in the world. The work below is what I've been building in my spare time to explore that question — prototypes, research, and production-shaped tools across frontier AI research, applied AI in finance, regulated-domain data integration, and hardware-facing ML.
 
 ---
 
@@ -67,4 +67,6 @@ compressed by a factor of ten.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/james-browne-aa230623)
+* **Writing:** [Move 37](https://jamesbrowneai.substack.com/)
+* **LinkedIn:** [james-browne-aa230623](https://www.linkedin.com/in/james-browne-aa230623)
+* **Children's book:** [jamesbrownebooks.com](https://jamesbrownebooks.com/)
