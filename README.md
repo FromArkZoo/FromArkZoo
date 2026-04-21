@@ -61,7 +61,7 @@ compressed by a factor of ten.
 * AI diffusion dynamics and the economics of adoption friction
 * Whether the universe is analog or digital (still unresolved, personally)
 * Substrate independence, consciousness, and the ethics of building minds
-* Foundational maths as a hobby — Collatz, Riemann, cellular automata
+* Foundational maths as a hobby and cellular automata
 
 ---
 
