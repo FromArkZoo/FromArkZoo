@@ -6,6 +6,16 @@ I'm genuinely interested in how frontier AI can democratize knowledge and increa
 
 ---
 
+## Move 37
+
+I write **[Move 37](https://jamesbrowneai.substack.com/)** — a Substack on AI
+diffusion, frontier model dynamics, and what happens when knowledge work gets
+compressed by a factor of ten.
+
+[Read here →](https://jamesbrowneai.substack.com/)
+
+---
+
 ## Research
 
 **[Genesis Engine](https://github.com/FromArkZoo/aigame)** — Evolving original abstract strategy games playable by AI agents, using LLM-as-judge evaluation across multiple Claude agent teams. Current direction: cellular automata as the rule substrate for evolvable games. Deliberate iteration across runs 7–12, with failure modes from each generation fed back into the constraints of the next.
@@ -44,6 +54,14 @@ I'm genuinely interested in how frontier AI can democratize knowledge and increa
 - Evaluation methodology matters as much as the artifact itself
 - Privacy and data handling should be design decisions, not afterthoughts
 - Unknown systems are opportunities to understand deeply — not problems to route around
+
+---
+## What I'm thinking about
+
+* AI diffusion dynamics and the economics of adoption friction
+* Whether the universe is analog or digital (still unresolved, personally)
+* Substrate independence, consciousness, and the ethics of building minds
+* Foundational maths as a hobby — Collatz, Riemann, cellular automata
 
 ---
 
