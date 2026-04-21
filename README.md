@@ -34,7 +34,7 @@ compressed by a factor of ten.
 
 **[tv-streamer](https://github.com/FromArkZoo/tv-streamer)** — An LG webOS homebrew IPTV aggregator with multi-dimensional channel classification (category / language / region), HLS playback tuned for TV hardware, and a CDP → Luna bridge for scripted sideload. Packaged as a `.ipk` and running on-device.
 
-## Systems + engineering fundamentals
+## Miscellaneous
 
 **[VoiceChangerPro-iOS](https://github.com/FromArkZoo/VoiceChangerPro-iOS)** — A low-latency iOS voice changer built on AVAudioEngine with FFT processing via the Accelerate framework.
 
