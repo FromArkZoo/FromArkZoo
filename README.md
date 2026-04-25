@@ -44,7 +44,7 @@ compressed by a factor of ten.
 
 ## Published work
 
-**[What was that BANG?!?](https://jamesbrownebooks.com/)** (Troubador, 2026) — An illustrated science book for ages 8–12 exploring how sound travels from physics to conscious perception, built around Socratic dialogue between a child and his father. ISBN 978-1-80634-016-3.
+**[What was that BANG?!?](https://jamesbrownebooks.com/)** (Troubador, 2026) — An illustrated science book for ages 8–12 exploring how sound travels from physics to conscious perception, built around Socratic dialogue between a child and his father. I also designed and built [the marketing site](https://github.com/FromArkZoo/bang-book-site). ISBN 978-1-80634-016-3.
 
 ---
 
