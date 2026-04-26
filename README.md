@@ -34,6 +34,8 @@ compressed by a factor of ten.
 
 **[tv-streamer](https://github.com/FromArkZoo/tv-streamer)** — An LG webOS homebrew IPTV aggregator with multi-dimensional channel classification (category / language / region), HLS playback tuned for TV hardware, and a CDP → Luna bridge for scripted sideload. Packaged as a `.ipk` and running on-device.
 
+**[CycleJames-iOS](https://github.com/FromArkZoo/CycleJames-iOS)** — Native SwiftUI port of my web cycling-trainer app, built because iOS Safari blocks Web Bluetooth and the PWA can't pair with smart trainers on iPhone. CoreBluetooth FTMS Indoor Bike Data parsing, ERG-mode control-point writes for resistance targeting, Swift Charts ride visualisation, NP/IF/TSS power metrics, SwiftData ride history.
+
 ## Miscellaneous
 
 **[VoiceChangerPro-iOS](https://github.com/FromArkZoo/VoiceChangerPro-iOS)** — A low-latency iOS voice changer built on AVAudioEngine with FFT processing via the Accelerate framework.
