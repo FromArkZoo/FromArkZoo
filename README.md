@@ -44,6 +44,10 @@ compressed by a factor of ten.
 
 **[bomberman-clone](https://github.com/FromArkZoo/bomberman-clone)** — A Super Bomberman clone built from scratch in vanilla JavaScript. Clean entity architecture, raycast bomb propagation, reactive enemy AI.
 
+## Education
+
+**[PharmaGlossary-iOS](https://github.com/FromArkZoo/PharmaGlossary-iOS)** — Native SwiftUI iOS reference for pharmaceutical conference terminology. 324 terms covering cancer types, driver mutations, drug classes, and clinical-trial vocabulary, organised A–Z with full-text search across term, abbreviation, and definition. Ported from a Python tkinter prototype.
+
 ## Published work
 
 **[What was that BANG?!?](https://jamesbrownebooks.com/)** (Troubador, 2026) — An illustrated science book for ages 8–12 exploring how sound travels from physics to conscious perception, built around Socratic dialogue between a child and his father. I also designed and built [the marketing site](https://github.com/FromArkZoo/bang-book-site). ISBN 978-1-80634-016-3.
