@@ -42,8 +42,6 @@ compressed by a factor of ten.
 
 **[BeanNote](https://github.com/FromArkZoo/BeanNote)** — A canvas-based slide / presentation builder in React + TypeScript with a dynamic background renderer.
 
-**[bomberman-clone](https://github.com/FromArkZoo/bomberman-clone)** — A Super Bomberman clone built from scratch in vanilla JavaScript. Clean entity architecture, raycast bomb propagation, reactive enemy AI.
-
 ## Education
 
 **[PharmaGlossary-iOS](https://github.com/FromArkZoo/PharmaGlossary-iOS)** — Native SwiftUI iOS reference for pharmaceutical conference terminology. 324 terms covering cancer types, driver mutations, drug classes, and clinical-trial vocabulary, organised A–Z with full-text search across term, abbreviation, and definition. Ported from a Python tkinter prototype.
