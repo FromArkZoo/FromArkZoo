@@ -2,7 +2,7 @@
 
 15 years leading enterprise relationships at **Bloomberg**.
 
-I'm genuinely interested in how frontier AI can democratise knowledge and increase individual agency in the world. The work below is what I've been building in my spare time to explore that question — prototypes, research, and production-shaped tools across frontier AI research, applied AI in finance, regulated-domain data integration, and hardware-facing ML.
+I'm genuinely interested in how frontier AI can democratise knowledge and increase individual agency in the world. The work below is what I've been building in my spare time to explore that question — prototypes, research, and production-shaped tools across frontier AI research, applied AI in finance, regulated-domain data integration, hardware-facing ML, and native iOS reference apps for working professionals.
 
 ---
 
@@ -18,7 +18,7 @@ compressed by a factor of ten.
 
 ## Research
 
-**[Genesis Engine](https://github.com/FromArkZoo/aigame)** — Evolving original abstract strategy games playable by AI agents, using LLM-as-judge evaluation across multiple Claude agent teams. Current direction: cellular automata as the rule substrate for evolvable games. Deliberate iteration across runs 7–12, with failure modes from each generation fed back into the constraints of the next.
+**[Genesis Engine](https://github.com/FromArkZoo/aigame)** — Evolving original abstract strategy games playable by AI agents, using LLM-as-judge evaluation across multiple Claude agent teams. Current direction: cellular automata as the rule substrate for evolvable games. Iteration across 20+ evaluation campaigns, with each generation's failure modes fed back into the constraints of the next.
 
 ## Applied AI × finance
 
@@ -26,7 +26,7 @@ compressed by a factor of ten.
 
 ## Data integration in regulated domains
 
-**[dna-analyzer](https://github.com/FromArkZoo/dna-analyzer)** — A Flask app that cross-references AncestryDNA files against ClinVar, GWAS Catalog, and PharmGKB clinical annotations. Privacy-by-design: raw files are parsed in-memory and never written to disk.
+**[dna-analyzer](https://github.com/FromArkZoo/dna-analyzer)** — A Flask app that cross-references AncestryDNA files against ClinVar, GWAS Catalog, and PharmGKB clinical annotations, wrapped in an editorial-magazine UI (hero photography, display typography, frosted cards). Privacy-by-design: raw files are parsed in-memory and never written to disk.
 
 ## Hardware × ML
 
@@ -34,15 +34,15 @@ compressed by a factor of ten.
 
 **[tv-streamer](https://github.com/FromArkZoo/tv-streamer)** — An LG webOS homebrew IPTV aggregator with multi-dimensional channel classification (category / language / region), HLS playback tuned for TV hardware, and a CDP → Luna bridge for scripted sideload. Packaged as a `.ipk` and running on-device.
 
-**[CycleJames-iOS](https://github.com/FromArkZoo/CycleJames-iOS)** — Native SwiftUI port of my web cycling-trainer app, built because iOS Safari blocks Web Bluetooth and the PWA can't pair with smart trainers on iPhone. CoreBluetooth FTMS Indoor Bike Data parsing, ERG-mode control-point writes for resistance targeting, Swift Charts ride visualisation, NP/IF/TSS power metrics, SwiftData ride history.
+**[CycleJames-iOS](https://github.com/FromArkZoo/CycleJames-iOS)** — Native SwiftUI port of my web cycling-trainer app, built because iOS Safari blocks Web Bluetooth and the PWA can't pair with smart trainers on iPhone. CoreBluetooth FTMS Indoor Bike Data parsing, ERG-mode control-point writes for resistance targeting, Swift Charts ride visualisation, NP/IF/TSS power metrics, SwiftData ride history. Shipped on the App Store (v1.1).
 
-## Miscellaneous
+## Systems + engineering fundamentals
 
 **[VoiceChangerPro-iOS](https://github.com/FromArkZoo/VoiceChangerPro-iOS)** — A low-latency iOS voice changer built on AVAudioEngine with FFT processing via the Accelerate framework.
 
 **[BeanNote](https://github.com/FromArkZoo/BeanNote)** — A canvas-based slide / presentation builder in React + TypeScript with a dynamic background renderer.
 
-## Education
+## Reference
 
 **[JB Glossaries](https://github.com/FromArkZoo/JBGlossary-iOS)** — A suite of three native SwiftUI iOS reference apps sharing one engine: **JB Pharma** (499 oncology and drug-mechanism terms), **JB AI** (785 model-architecture, training, and hardware terms), and **JB Law** (836 US-law terms across 14 categories and four reading lenses). Italic display typography, two-axis indication × category filter, full-text search across term, abbreviation, and definition. Originally a single Python tkinter pharma prototype, now ported and expanded into a multi-industry SwiftUI suite.
 
