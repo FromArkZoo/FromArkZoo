@@ -44,7 +44,7 @@ compressed by a factor of ten.
 
 ## Education
 
-**[PharmaGlossary-iOS](https://github.com/FromArkZoo/PharmaGlossary-iOS)** — Native SwiftUI iOS reference for pharmaceutical conference terminology. 324 terms covering cancer types, driver mutations, drug classes, and clinical-trial vocabulary, organised A–Z with full-text search across term, abbreviation, and definition. Ported from a Python tkinter prototype.
+**[JB Glossaries](https://github.com/FromArkZoo/JBGlossary-iOS)** — A suite of three native SwiftUI iOS reference apps sharing one engine: **JB Pharma** (499 oncology and drug-mechanism terms), **JB AI** (785 model-architecture, training, and hardware terms), and **JB Law** (836 US-law terms across 14 categories and four reading lenses). Italic display typography, two-axis indication × category filter, full-text search across term, abbreviation, and definition. Originally a single Python tkinter pharma prototype, now ported and expanded into a multi-industry SwiftUI suite.
 
 ## Published work
 
